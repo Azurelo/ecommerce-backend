@@ -1,5 +1,5 @@
 # ecommerce-backend
-Node.js command-line application that takes in information for a company and stores and organizes tyem in a database.
+Node.js application that takes in information for a company and stores and organizes them in a database.
 
 ## Description
 This application takes an Express.js API and uses Sequelize to interact with a MySQL database.
@@ -11,9 +11,9 @@ Clone the repository and then run 'node i'.
 ## Usage
 Edit the connection file by inputting your username and password
 Run 'npm start' in the terminal and input information wanted for editing the database.
-![image](https://user-images.githubusercontent.com/114710827/218561832-6fdee205-709d-4120-89c4-b54600eb0d0b.png)
+![image](https://user-images.githubusercontent.com/114710827/219980240-1df8d56e-7091-41f7-9af4-e80bd4b719d1.png)
 
-https://drive.google.com/file/d/1UQs5oGVytUW5mG7mQWmNNc9BAgIodHPu/view
+https://drive.google.com/file/d/1wXIpDB754sMB0YXVgoIIxOvLIFPbDcb8/view 
 
 ## Contributors
 Justus Schoppmann
